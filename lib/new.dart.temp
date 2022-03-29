@@ -1,0 +1,15 @@
+appBar: AppBar(
+        backgroundColor: Colors.green,
+        title: const Center(
+            child: Text(
+          'Smart Glove Assist',
+        )),
+        titleSpacing: 20,
+      ),
+
+
+
+      camera : add a photo,camera alt rounded
+      music : audiotrack
+      message : chat sharp
+      mic : mic
